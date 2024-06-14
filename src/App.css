@@ -44,15 +44,20 @@ flex-direction: column; */
   margin: auto;
   margin-top: 80px;
   width: 350px;
-  height: 40px;
+  height: 35px;
   margin-left: -150px;
   border-radius: 10px;
-  background-color: rgb(247, 255, 255);
+  background-color: rgb(248, 245, 241);
   transition-duration: 0.4s;
   text-align: center;
+  border: none;
+  font-size: 18px;
+  
 
 }
 .button1:hover {
-  background-color: #0e0c0c; 
+  background-color: rgb(17, 16, 16); 
   color: white;
+  border: 1px solid white; 
+  
 }
