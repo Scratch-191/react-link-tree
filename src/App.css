@@ -61,3 +61,80 @@ flex-direction: column; */
   border: 1px solid white; 
   
 }
+
+.button2{
+  margin: auto;
+  margin-top: 40px;
+  width: 350px;
+  height: 35px;
+  margin-left: -150px;
+  border-radius: 10px;
+  background-color: rgb(248, 245, 241);
+  transition-duration: 0.4s;
+  text-align: center;
+  border: none;
+  font-size: 18px;
+  
+
+}
+.button2:hover {
+  background-color: rgb(17, 16, 16); 
+  color: white;
+  border: 1px solid white; 
+  
+}
+
+.button3{
+  margin: auto;
+  margin-top: 40px;
+  width: 350px;
+  height: 35px;
+  margin-left: -150px;
+  border-radius: 10px;
+  background-color: rgb(248, 245, 241);
+  transition-duration: 0.4s;
+  text-align: center;
+  border: none;
+  font-size: 18px;
+  
+
+}
+.button3:hover {
+  background-color: rgb(17, 16, 16); 
+  color: white;
+  border: 1px solid white;
+  
+}
+
+.button4{
+  margin: auto;
+  margin-top: 40px;
+  width: 350px;
+  height: 35px;
+  margin-left: -150px;
+  border-radius: 10px;
+  background-color: rgb(248, 245, 241);
+  transition-duration: 0.4s;
+  text-align: center;
+  border: none;
+  font-size: 18px;
+  
+
+}
+.button4:hover {
+  background-color: rgb(17, 16, 16); 
+  color: white;
+  border: 1px solid white; 
+  
+}
+.button1:hover .logo {
+  background-color: white;
+}
+
+.button3:hover .logo3 {
+  background-color: white;
+}
+
+.button4:hover .logo4 {
+  background-color: white;
+}
