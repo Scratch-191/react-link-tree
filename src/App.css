@@ -1,15 +1,58 @@
-.App {
-  text-align: center;
- 
+
+body{
+  background-color: black;
+}
+/* HOMEPAGE STARTS HERE */
+.name--section--grid{
+  
+    background-color: rgb(17, 16, 16);
+    padding: 300px;
+    margin: auto;
+    margin-top: 110px;
+    width: 20px;
+    height: 130px;
+    border-radius: 25px;
   
 }
-.header {
-  text-align: center;
-  font-weight: 400;
-  font-size: medium;
-  color: beige;
-  
+.name--picture{
+  color: rgb(245, 239, 233);
+  position: absolute;
+  margin-top: -230px;
+  margin-left: -80px;
+
+
 }
-.sim{
-  color: red;
+.name--picture-2{
+  color: rgb(187, 187, 68);
+  margin-top: -20px;
+}
+/* display: flex;
+justify-content: center;
+flex-direction: column; */
+
+.iname{
+  margin-left: 48px;
+}
+.paragraph{
+  color: rgb(216, 212, 206);
+  margin:auto;
+  position: absolute;
+  margin-left: -110px;
+  margin-top: -10px;
+}
+.button1{
+  margin: auto;
+  margin-top: 80px;
+  width: 350px;
+  height: 40px;
+  margin-left: -150px;
+  border-radius: 10px;
+  background-color: rgb(247, 255, 255);
+  transition-duration: 0.4s;
+  text-align: center;
+
+}
+.button1:hover {
+  background-color: #0e0c0c; 
+  color: white;
 }
