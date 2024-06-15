@@ -6,7 +6,7 @@ const Hero = () => {
     <div className='name--section--grid'> 
         
         <div className='name--picture'>
-            <img className='iname' src="./images/img.png" alt="" />
+            <img className='iname' src="./images/sammy1.png" alt="" />
         <h2 className='name'>Samuel Annan </h2>
         <span className='name--picture-2'>
             <h4>Takoradi, Ghana</h4>

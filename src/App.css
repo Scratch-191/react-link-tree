@@ -33,6 +33,7 @@ flex-direction: column; */
 
 .iname{
   margin-left: 48px;
+  border-radius: 30px;
 }
 .paragraph{
   color: rgb(216, 212, 206);
@@ -151,4 +152,92 @@ flex-direction: column; */
   font-weight: 400px;
   font-style: italic;
   margin-left: 15px;
+}
+/* 414 * 816 screen size */
+@media ( max-width: 414px) {
+  .name--section--grid{
+    padding: 180px;
+    margin: auto;
+    margin-top: 90px;
+    margin-left: 3px;
+    width: 20px;
+    height: 220px;
+
+  }
+  .button1{
+    margin: auto;
+    margin-top: 80px;
+    width: 330px;
+    height: 35px;
+    margin-left: -150px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: 1px solid white; 
+    
+  }
+  .button3{
+    margin: auto;
+    margin-top: 40px;
+    width: 330px;
+    height: 35px;
+    margin-left: -150px;
+    border-radius: 10px;
+    background-color: rgb(248, 245, 241);
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: 1px solid white; 
+    
+  
+  }
+  .button2{
+    margin: auto;
+    margin-top: 40px;
+    width: 330px;
+    height: 35px;
+    margin-left: -150px;
+    border-radius: 10px;
+    background-color: rgb(248, 245, 241);
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: rgb(17, 16, 16);
+  }
+  .button4{
+    margin: auto;
+    margin-top: 40px;
+    width: 330px;
+    height: 35px;
+    margin-left: -150px;
+    border-radius: 10px;
+    background-color: rgb(248, 245, 241);
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: rgb(17, 16, 16);
+    transition-timing-function: ease;
+  
+  }
+  .paragraph{
+    color: rgb(216, 212, 206);
+    margin:auto;
+    position: absolute;
+    margin-left: -110px;
+    margin-top: 20px;
+  }
+  .name--picture-2{
+    color: rgb(138, 138, 75);
+    margin-top: -20px;
+    text-align: center;
+  }
 }
