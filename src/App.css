@@ -158,10 +158,10 @@ flex-direction: column; */
   .name--section--grid{
     padding: 180px;
     margin: auto;
-    margin-top: 90px;
+    margin-top: 70px;
     margin-left: 3px;
     width: 20px;
-    height: 220px;
+    height: 240px;
 
   }
   .button1{
@@ -182,7 +182,7 @@ flex-direction: column; */
   }
   .button3{
     margin: auto;
-    margin-top: 40px;
+    margin-top: 50px;
     width: 330px;
     height: 35px;
     margin-left: -150px;
@@ -200,12 +200,12 @@ flex-direction: column; */
   }
   .button2{
     margin: auto;
-    margin-top: 40px;
+    margin-top: 50px;
     width: 330px;
     height: 35px;
     margin-left: -150px;
     border-radius: 10px;
-    background-color: rgb(248, 245, 241);
+    background-color: rgb(230, 223, 214);
     transition-duration: 0.4s;
     text-align: center;
     border: none;
@@ -214,12 +214,12 @@ flex-direction: column; */
   }
   .button4{
     margin: auto;
-    margin-top: 40px;
+    margin-top: 50px;
     width: 330px;
     height: 35px;
     margin-left: -150px;
     border-radius: 10px;
-    background-color: rgb(248, 245, 241);
+    background-color: rgb(230, 223, 214);
     transition-duration: 0.4s;
     text-align: center;
     border: none;
@@ -237,7 +237,21 @@ flex-direction: column; */
   }
   .name--picture-2{
     color: rgb(138, 138, 75);
-    margin-top: -20px;
+    margin:auto;
+    margin-left: -20px;
+    margin-top: 20px;
     text-align: center;
+    font-size: medium ;
+  }
+  .name{
+    font-weight: 400px;
+    font-style: italic;
+    margin:auto;
+    margin-top: 10px;
+  }
+  .iname{
+    margin-left: 40px;
+    border-radius: 30px;
+    margin-top: 50px;
   }
 }
