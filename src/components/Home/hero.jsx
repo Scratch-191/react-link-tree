@@ -7,9 +7,9 @@ const Hero = () => {
         
         <div className='name--picture'>
             <img className='iname' src="./images/img.png" alt="" />
-        <h2>Jessica Randalle </h2>
+        <h2 className='name'>Samuel Annan </h2>
         <span className='name--picture-2'>
-            <h4>London, United Kingdom</h4>
+            <h4>Takoradi, Ghana</h4>
         </span>
 
         </div>
@@ -18,11 +18,12 @@ const Hero = () => {
          <p className='paragraph'>"Front-end developer and avid-reader."</p>
         
           <a href="https://github.com/Scratch-191" target="_blank" rel="noopener noreferrer">   <button className='button1'>
-      <img src='./images/github.png' alt="GitHub Logo" className='logo' />
+      <img src='./icons/github.svg' alt="" className='logo' />
           GitHub   </button></a>
        
 
          <button className='button2'>
+         <img src='./icons/twitter.svg' alt="" className='logo' />
             X
             
          </button>
@@ -35,7 +36,7 @@ const Hero = () => {
                 rel="noreferrer"
               >  <button className='button3'>
               LinkedIn
-              <img src='./images/linkedin.png' alt="LinkedIn Logo" className='logo3' /></button></a>
+              <img src='./icons/linkedin.svg' alt="LinkedIn Logo" className='logo' /></button></a>
         
 
         

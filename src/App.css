@@ -18,13 +18,14 @@ body{
   color: rgb(245, 239, 233);
   position: absolute;
   margin-top: -230px;
-  margin-left: -80px;
+  margin-left: -70px;
 
 
 }
 .name--picture-2{
   color: rgb(187, 187, 68);
   margin-top: -20px;
+  text-align: center;
 }
 /* display: flex;
 justify-content: center;
@@ -59,6 +60,7 @@ flex-direction: column; */
   background-color: rgb(17, 16, 16); 
   color: white;
   border: 1px solid white; 
+ 
   
 }
 
@@ -128,7 +130,8 @@ flex-direction: column; */
   
 }
 .button1:hover .logo {
-  background-color: white;
+  color: white;
+
 }
 
 .button3:hover .logo3 {
@@ -137,4 +140,15 @@ flex-direction: column; */
 
 .button4:hover .logo4 {
   background-color: white;
+  border-radius: 15px;
+}
+.logo{
+  height: 70%;
+  background-color: rgb(17, 16, 16);
+  border-radius: 20px;
+}
+.name{
+  font-weight: 400px;
+  font-style: italic;
+  margin-left: 15px;
 }
