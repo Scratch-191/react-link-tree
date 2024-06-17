@@ -49,7 +49,17 @@ const Hero = () => {
               <img src='./images/instagram.png' alt="Instagram Logo" className='logo4' />
                  Instagram
       </button> </a>
-         
+            
+
+      <a
+                href=""
+               
+                target="_blank"
+                rel="noreferrer"
+              >  <button className='button5'>
+              <img src='./images/' alt="Resume Logo" className='logo5' />
+                 Resume
+      </button> </a>
         </div>
         
         
