@@ -52,12 +52,12 @@ const Hero = () => {
             
 
       <a
-                href=""
+                href="https://flowcv.com/resume/dfv8d1egbu"
                
                 target="_blank"
                 rel="noreferrer"
               >  <button className='button5'>
-              <img src='./images/' alt="Resume Logo" className='logo5' />
+              <img src='./images/user3.png' alt="Resume Logo" className='logo5' />
                  Resume
       </button> </a>
         </div>

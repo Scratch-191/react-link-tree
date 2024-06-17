@@ -10,7 +10,7 @@ body{
     margin: auto;
     margin-top: 110px;
     width: 20px;
-    height: 130px;
+    height: 160px;
     border-radius: 25px;
   
 }
@@ -175,7 +175,7 @@ flex-direction: column; */
   border: 1px solid white; 
   
 }
-.button5:hover .logo4 {
+.button5:hover .logo5 {
   background-color: white;
   border-radius: 15px;
 }
@@ -194,7 +194,7 @@ flex-direction: column; */
     margin: auto;
     margin-top: 80px;
     width: 330px;
-    height: 35px;
+    height: 33px;
     margin-left: -150px;
     border-radius: 10px;
     transition-duration: 0.4s;
@@ -208,9 +208,9 @@ flex-direction: column; */
   }
   .button3{
     margin: auto;
-    margin-top: 50px;
+    margin-top: 37px;
     width: 330px;
-    height: 35px;
+    height: 33px;
     margin-left: -150px;
     border-radius: 10px;
     background-color: rgb(248, 245, 241);
@@ -226,9 +226,9 @@ flex-direction: column; */
   }
   .button2{
     margin: auto;
-    margin-top: 50px;
+    margin-top: 30px;
     width: 330px;
-    height: 35px;
+    height: 33px;
     margin-left: -150px;
     border-radius: 10px;
     background-color: rgb(230, 223, 214);
@@ -240,9 +240,9 @@ flex-direction: column; */
   }
   .button4{
     margin: auto;
-    margin-top: 50px;
+    margin-top: 40px;
     width: 330px;
-    height: 35px;
+    height: 33px;
     margin-left: -150px;
     border-radius: 10px;
     background-color: rgb(230, 223, 214);
@@ -282,20 +282,18 @@ flex-direction: column; */
   }
   .button5{
     margin: auto;
-    margin-top: 50px;
+    margin-top: 40px;
     width: 330px;
-    height: 35px;
+    height: 33px;
     margin-left: -150px;
     border-radius: 10px;
-    background-color: rgb(248, 245, 241);
+    background-color: rgb(230, 223, 214);
     transition-duration: 0.4s;
     text-align: center;
     border: none;
     font-size: 18px;
-    color: white;
-    background-color: black;
-    border: 1px solid white; 
-    
+    color: rgb(17, 16, 16);
+    transition-timing-function: ease;
   
   }
 }
